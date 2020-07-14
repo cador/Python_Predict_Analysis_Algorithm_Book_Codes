@@ -13,3 +13,5 @@ Python 是一种面向对象的脚本语言，其代码简洁优美，类库丰�
 希望读者在看完本书后，能够将本书的精要融会贯通，进一步在工作和学习实践中提炼价值。
 
 **该仓库仅存储该书的代码，数据请参考书中说明**
+
+<img src="http://image.cador.cn/resource/gzh2.png" style="width:60%;height:60%"/>
